@@ -1,3 +1,4 @@
 *-backups/
 fp-info-cache
+*-lib-table
 *.kicad_prl
