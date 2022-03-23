@@ -38,7 +38,7 @@
   (pad 10 thru_hole circle (at -12 -3) (size 1.37 1.37) (drill 1.02) (layers *.Cu *.Mask))
   (pad 11 np_thru_hole circle (at 3 -3.94) (size 1.02 0) (drill 1.02) (layers *.Cu *.Mask))
   (pad 12 np_thru_hole circle (at -15 -3.94) (size 1.02 0) (drill 1.02) (layers *.Cu *.Mask))
-  (model "C:\\Users\\Ephraim\\Documents\\LibraryLoader\\SamacSys_Parts.3dshapes\\43045-1012.stp"
+  (model "${KIPRJMOD}/library/parts.3dshapes/43045-1012.stp"
     (at (xyz -0.23622047244094 0.057874016874418 0.19527559205303))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

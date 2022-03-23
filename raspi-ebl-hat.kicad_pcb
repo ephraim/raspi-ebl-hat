@@ -1567,7 +1567,7 @@
       (net 55 "unconnected-(J102-Pad4)") (pinfunction "4") (pintype "passive") (tstamp f463dc1b-53a5-41a2-9ca8-a806c4d9fbbc))
     (pad "5" thru_hole circle locked (at -12 0) (size 1.37 1.37) (drill 1.02) (layers *.Cu *.Mask)
       (net 56 "unconnected-(J102-Pad5)") (pinfunction "5") (pintype "passive") (tstamp 040940fc-527b-43c2-a98d-a1cde33200a1))
-    (model "C:\\Users\\Ephraim\\Documents\\LibraryLoader\\SamacSys_Parts.3dshapes\\43650-0515.stp"
+    (model "${KIPRJMOD}/library/parts.3dshapes/43650-0515.stp"
       (offset (xyz -5.99999991 -0.09000000222 5.26000015))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1641,7 +1641,7 @@
       (net 65 "unconnected-(J101-Pad9)") (pinfunction "9") (pintype "passive") (tstamp 8f632bbb-4c51-4fdd-95e4-d49da55e0718))
     (pad "10" thru_hole circle locked (at -12 -3) (size 1.37 1.37) (drill 1.02) (layers *.Cu *.Mask)
       (net 66 "unconnected-(J101-Pad10)") (pinfunction "10") (pintype "passive") (tstamp 97903ba7-a333-4ec0-8089-f6e2050663a8))
-    (model "C:\\Users\\Ephraim\\Documents\\LibraryLoader\\SamacSys_Parts.3dshapes\\43045-1012.stp"
+    (model "${KIPRJMOD}/library/parts.3dshapes/43045-1012.stp"
       (offset (xyz -5.99999991 1.470000007 4.959999964))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1704,7 +1704,7 @@
       (net 50 "unconnected-(J103-Pad5)") (pinfunction "5") (pintype "passive") (tstamp 357cdf28-609c-4cbe-b625-60fd22abb787))
     (pad "6" thru_hole circle locked (at -15 0) (size 1.37 1.37) (drill 1.02) (layers *.Cu *.Mask)
       (net 51 "unconnected-(J103-Pad6)") (pinfunction "6") (pintype "passive") (tstamp 5b38efd1-6929-4c5d-acfb-17d556af132b))
-    (model "C:\\Users\\Ephraim\\Documents\\LibraryLoader\\SamacSys_Parts.3dshapes\\43650-0615.stp"
+    (model "${KIPRJMOD}/library/parts.3dshapes/43650-0615.stp"
       (offset (xyz -7.499999887 0 4.860000061))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
